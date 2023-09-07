@@ -37,3 +37,11 @@ body {
   }
 
 }
+.navbar-brand{
+  width: 500px;
+
+  margin-left:3px;
+}
+.navbar-grey {
+  background-color:#1e2122
+}
