@@ -32,16 +32,19 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
-    width: 100px;
-  }
 
 }
 .navbar-brand{
-  width: 500px;
-
-  margin-left:3px;
+  margin-left: 20px;
+  color: aliceblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .navbar-grey {
   background-color:#1e1f1f
+}
+.nav-link{
+  margin-left: 30px;
+}
+.font-letra{
+  font-size: 60px;
 }
